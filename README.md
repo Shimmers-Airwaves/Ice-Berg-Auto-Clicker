@@ -1,2 +1,1 @@
-# Ice-Berg-Auto-Clicker
-Bcoin
+# Gemz-Auto-Clicker-Powerful
